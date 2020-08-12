@@ -26,7 +26,7 @@
 
 
 <br>![Internet](./img/internet.jpg)
-<h2>Como funciona a internet<h2>
+<h1>Como funciona a internet</h1>
 
   A Internet é a espinha dorsal da Web, a infraestrutura técnica que faz a Web possível. Mas basicamente, a Internet é
 uma gigantesca rede de computadores que se comunicam juntos.
