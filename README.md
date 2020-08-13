@@ -8,9 +8,8 @@
 
 ![Fonte W3C](https://www.w3schools.com/html/default.asp)
 
-  **CSS(Cascading Style Sheets)** é uma linguagem que descreve o estilo de um documento HTML. De forma com estilo, o CSS descreve como os elementos HTML devem ser exibidos. Ele pode controlar o layout de várias páginas da web de uma só vez. Foi desenvolvida em 1996, pela World Wide Web Consortium (W3C), que é a principal organização de padronização da World Wide Web.
-    CSS é usado para definir estilos para suas páginas da Web, incluindo o design, layout e variações de exibição para 
-  diferentes dispositivos e tamanhos de tela. As definições de estilo são normalmente salvas em arquivos .css externos.
+  **CSS(Cascading Style Sheets)** é uma linguagem que descreve o estilo de um documento HTML. De forma com estilo, o CSS descreve como os elementos HTML devem ser exibidos. 
+    <p>Ele pode controlar o layout de várias páginas da web de uma só vez. Foi desenvolvida em 1996, pela World Wide Web <p>Consortium (W3C), que é a principal organização de padronização da World Wide Web. CSS é usado para definir estilos para suas páginas da Web, incluindo o design, layout e variações de exibição para diferentes dispositivos e tamanhos de tela. As definições de estilo são normalmente salvas em arquivos .css externos.</p>
 
 ![Fonte W3C](https://www.w3schools.com/css/css_intro.asp)
 
@@ -21,16 +20,17 @@
 ![Fonte Becode](https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/)<br>
 
 
-![Internet](./img/internet.jpg)
+![Internet](./img/internet.jpg)<br>
 <h1>Como funciona a internet</h1>
 
-  A Internet é a espinha dorsal da Web, a infraestrutura técnica que faz a Web possível. Mas basicamente, a Internet é
-uma gigantesca rede de computadores que se comunicam juntos.
-  A história da internet começa nos anos 60 como um projeto de pesquisa consolidado pelo exército norte americano,
-e tornou-se uma infraestrutura pública nos anos 80 com o suporte dado por diversas universidades públicas e companias privadas. As várias tecnologias que suportam a internet se acoplaram através do tempo, mas a forma de funcionamento não mudou muito: **Internet é uma forma de conectar computadores e garantir, em qualquer situação, que eles encontrem uma forma de se manter conectados**.
-   Alguns conceitos inportantes para que funcione a internet: **backbones** são pontos das redes que compõem o núcleo das
- redes de Internet. São pontos-chave da Internet que distribuem pelas redes as informações baseadas na tecnologia TCP/IP. Existem poucos backbones espalhados pelo mundo;Os **provedores de acesso** são, em geral, empresas ligadas ao setor de telecomunicações, ou até mesmo as próprias companhias telefônicas, que fornecem o acesso à Internet por meio de planos acordados com seus usuários; Estes dados de Internet que trafegarão na rede necessitam de um meio para o seu transporte até os usuários, e são as empresas **provedoras de serviço** as responsáveis por este papel. Estas empresas recebem os dados do provedor de acesso e distribuem aos usuários por variados meios, seja por linha telefônica, fibra ótica ou via rádio (por tecnologia sem fio); Este pode parecer o passo final do caminho percorrido pela Internet, mas na verdade não é. Ao chegar no **usuário final** o sinal de Internet passa a repetir todo o caminho novamente, porém na forma inversa, já que você, como usuário final, também envia sinais - com as suas requisições - para a Internet. Os dados enviados pelos usuários são transportados pelo provedor de serviço, enviados para o provedor de acesso e chegam novamente ao backbone
+  <p>A Internet é a espinha dorsal da Web, a infraestrutura técnica que faz a Web possível. Mas basicamente, a Internet é
+uma gigantesca rede de computadores que se comunicam juntos.</p>
+  <p>A história da internet começa nos anos 60 como um projeto de pesquisa consolidado pelo exército norte americano,
+e tornou-se uma infraestrutura pública nos anos 80 com o suporte dado por diversas universidades públicas e companias privadas. As várias tecnologias que suportam a internet se acoplaram através do tempo, mas a forma de funcionamento não mudou muito: **Internet é uma forma de conectar computadores e garantir, em qualquer situação, que eles encontrem uma forma de se manter conectados**.</p>
+   <p>Alguns conceitos inportantes para que funcione a internet: **backbones** são pontos das redes que compõem o núcleo
+das redes de Internet. São pontos-chave da Internet que distribuem pelas redes as informações baseadas na tecnologia TCP/IP. Existem poucos backbones espalhados pelo mundo;Os **provedores de acesso** são, em geral, empresas ligadas ao setor de telecomunicações, ou até mesmo as próprias companhias telefônicas, que fornecem o acesso à Internet por meio de planos acordados com seus usuários; Estes dados de Internet que trafegarão na rede necessitam de um meio para o seu transporte até os usuários, e são as empresas **provedoras de serviço** as responsáveis por este papel. Estas empresas recebem os dados do provedor de acesso e distribuem aos usuários por variados meios, seja por linha telefônica, fibra ótica ou via rádio (por tecnologia sem fio); Este pode parecer o passo final do caminho percorrido pela Internet, mas na verdade não é. Ao chegar no **usuário final** o sinal de Internet passa a repetir todo o caminho novamente, porém na forma inversa, já que você, como usuário final, também envia sinais - com as suas requisições - para a Internet. Os dados enviados pelos usuários são transportados pelo provedor de serviço, enviados para o provedor de acesso e chegam novamente ao backbone.</p>
 
-![Developer Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/Como_a_internet_funciona)
+![Dev Mozilla](https://developer.mozilla.org/pt-BR/docs/<br>
+                    Learn/Common_questions/Como_a_internet_funciona)<br>
 ![Techtudo](https://www.techtudo.com.br/noticias/noticia/2011/<br>
                     07/como-internet-chega-na-sua-casa.html)
