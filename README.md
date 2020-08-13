@@ -2,24 +2,23 @@
   
   
   **HTML(Hyper Text Markup Language)** é a linguagem de marcação padrão para páginas da web. Com HTML, você pode criar seu próprio site. Foi criado por Tim Berners-Lee(físico britânico) em 1989.
-    O HTML consiste em uma série de elementos. Os elementos HTML informam ao navegador como exibir o conteúdo. Os
-  elementos identificam partes de conteúdo como "este é um título", "este é um parágrafo", "este é um link" etc. Alguns elementos HTML não têm conteúdo (como o elemento <br>(serve para quebra de linha)). Esses elementos são chamados de elementos vazios. Elementos vazios não possuem uma tag de finalização.
-    HTML passou por várias versões e atualmente está na versão 5.2(HTML5), houve mudança da linguagem de marcação simples
-  HTML para HTML5(contendo novas tag´s etc), isso ocorreu por volta do ano de 2014.
+    <p>O HTML consiste em uma série de elementos. Os elementos HTML informam ao navegador como exibir o conteúdo. Os
+  elementos identificam partes de conteúdo como "este é um título", "este é um parágrafo", "este é um link" etc. Alguns elementos HTML não têm conteúdo. Esses elementos são chamados de elementos vazios. Elementos vazios não possuem uma tag de finalização.</p>
+    <p>HTML passou por várias versões e atualmente está na versão 5.2(HTML5), houve mudança da linguagem de marcação simples HTML para HTML5(contendo novas tag´s etc), isso ocorreu por volta do ano de 2014.</p>
 
-  ![Fonte W3C](https://www.w3schools.com/html/default.asp)
+![Fonte W3C](https://www.w3schools.com/html/default.asp)
 
   **CSS(Cascading Style Sheets)** é uma linguagem que descreve o estilo de um documento HTML. De forma com estilo, o CSS descreve como os elementos HTML devem ser exibidos. Ele pode controlar o layout de várias páginas da web de uma só vez. Foi desenvolvida em 1996, pela World Wide Web Consortium (W3C), que é a principal organização de padronização da World Wide Web.
     CSS é usado para definir estilos para suas páginas da Web, incluindo o design, layout e variações de exibição para 
   diferentes dispositivos e tamanhos de tela. As definições de estilo são normalmente salvas em arquivos .css externos.
 
-  ![Fonte W3C](https://www.w3schools.com/css/css_intro.asp)
+![Fonte W3C](https://www.w3schools.com/css/css_intro.asp)
 
   <h1>Frameworks</h1>  Frameworks é um conjunto de códigos abstratos e/ou genéricos que unem códigos com recursos iguais, ou seja, está ligado à arquitetura do seu software. Alguns frameworks atualmente usados pelos desenvolvedores: Spring(Java), Bootstrap(CSS), Angular(JavaScript), Pure(CSS e Html).
 
   <h1>Bibliotecas</h1> Bibliotecas(lib) é compartilhar soluções por meio de funções ou métodos. Uma das grandes vantagens da criação de bibliotecas é que você pode utilizá-las em diferentes projetos. Algumas bibliotecas atualmente usadas no mercado: jQuery, Angular, React, Hint(Css).<br>
 
-  ![Fonte Becode](https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/)<br>
+![Fonte Becode](https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/)<br>
 
 
 ![Internet](./img/internet.jpg)
