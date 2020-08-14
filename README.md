@@ -17,7 +17,7 @@
 
   <h1>Bibliotecas</h1> Bibliotecas(lib) é compartilhar soluções por meio de funções ou métodos. Uma das grandes vantagens da criação de bibliotecas é que você pode utilizá-las em diferentes projetos. Algumas bibliotecas atualmente usadas no mercado: jQuery, Angular, React, Hint(Css).<br>
 
-           ![Fonte Becode](https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/)<br>
+           ![Fonte Becode](https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/)
 
 
 ![Internet](./img/internet.jpg)<br>
